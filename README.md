@@ -10,10 +10,13 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-000000?style=for-the-badge&logo=firebase)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=for-the-badge&logo=PostgreSQL)
 ![Svelte](https://img.shields.io/badge/-Svelte-000000?style=for-the-badge&logo=Svelte)
-![Svelte](https://img.shields.io/badge/-Jquery-000000?style=for-the-badge&logo=jquery)
-![Svelte](https://img.shields.io/badge/-Bootstrap-000000?style=for-the-badge&logo=Bootstrap)
-![Svelte](https://img.shields.io/badge/-Tailwind-000000?style=for-the-badge&logo=Tailwindcss)
+![Jquery](https://img.shields.io/badge/-Jquery-000000?style=for-the-badge&logo=jquery)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=for-the-badge&logo=Bootstrap)
+![Tailwind](https://img.shields.io/badge/-Tailwind-000000?style=for-the-badge&logo=Tailwindcss)
 
 
 
-Follow me
+## Follow me
+![vk](https://img.shields.io/badge/-VK-000000?style=for-the-badge&logo=VK)
+![Upwork](https://img.shields.io/badge/-Upwork-000000?style=for-the-badge&logo=Upwork)
+![Tailwind](https://img.shields.io/badge/-VSCode-000000?style=for-the-badge&logo=VisualStudioCode)
