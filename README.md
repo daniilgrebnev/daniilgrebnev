@@ -8,15 +8,17 @@
 ![HTML](https://img.shields.io/badge/-HTML-000000?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=Css3)
 ![Firebase](https://img.shields.io/badge/-Firebase-000000?style=for-the-badge&logo=firebase)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=for-the-badge&logo=PostgreSQL)
 ![Svelte](https://img.shields.io/badge/-Svelte-000000?style=for-the-badge&logo=Svelte)
 ![Jquery](https://img.shields.io/badge/-Jquery-000000?style=for-the-badge&logo=jquery)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=for-the-badge&logo=Bootstrap)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-000000?style=for-the-badge&logo=Tailwindcss)
+![VS](https://img.shields.io/badge/-VSCode-000000?style=for-the-badge&logo=VisualStudioCode)
+![VS](https://img.shields.io/badge/-wordpress-000000?style=for-the-badge&logo=wordpress)
 
 
 
 ## Follow me
-![vk](https://img.shields.io/badge/-VK-000000?style=for-the-badge&logo=VK)
+![vk](https://img.shields.io/badge/-VKontacte-000000?style=for-the-badge&logo=VK)
+![tg](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=Telegram)
 ![Upwork](https://img.shields.io/badge/-Upwork-000000?style=for-the-badge&logo=Upwork)
-![Tailwind](https://img.shields.io/badge/-VSCode-000000?style=for-the-badge&logo=VisualStudioCode)
+
