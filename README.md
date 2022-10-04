@@ -3,7 +3,7 @@
 *italic*
 > Citate
 
-lorem `ipsum` dolar
+lorem `ipsum` dolars
 ```
 The project was developed for the IT company ""
 Figma layout
