@@ -2,7 +2,11 @@
 
 ## I`m frontend-deplover on HTML and React.js
 
-### Languages and Tools
+---
+---
+---
+
+## Languages and Tools
 ![React](https://img.shields.io/badge/-REACT-000000?style=for-the-badge&logo=react)
 ![javascript](https://img.shields.io/badge/-Javascript-000000?style=for-the-badge&logo=javascript)
 ![HTML](https://img.shields.io/badge/-HTML-000000?style=for-the-badge&logo=html5)
@@ -18,7 +22,12 @@
 
 
 ## Follow me
-![vk](https://img.shields.io/badge/-VKontacte-000000?style=for-the-badge&logo=VK)
-![tg](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=Telegram)
-![Upwork](https://img.shields.io/badge/-Upwork-000000?style=for-the-badge&logo=Upwork)
+[![vk](https://img.shields.io/badge/-VKontacte-000000?style=for-the-badge&logo=VK)](https://vk.com/danyagra)
+[![tg](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=Telegram)](https://t.me/daniilgral)
+[![Upwork](https://img.shields.io/badge/-Upwork-000000?style=for-the-badge&logo=Upwork)](https://www.upwork.com/freelancers/~01a65369f9e4bf8222)
+
+
+
+
+
 
