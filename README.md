@@ -6,7 +6,7 @@
 ---
 ---
 
-## Languages and Tools
+## Skills
 ![React](https://img.shields.io/badge/-REACT-000000?style=for-the-badge&logo=react)
 ![javascript](https://img.shields.io/badge/-Javascript-000000?style=for-the-badge&logo=javascript)
 ![HTML](https://img.shields.io/badge/-HTML-000000?style=for-the-badge&logo=html5)
