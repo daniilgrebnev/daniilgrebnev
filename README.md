@@ -22,9 +22,9 @@
 
 
 ## Follow me
-[![vk](https://img.shields.io/badge/-VKontacte-000000?style=for-the-badge&logo=VK)](https://vk.com/danyagra)
+[![vk](https://img.shields.io/badge/-VKontakte-000000?style=for-the-badge&logo=VK)](https://vk.com/danyagra)
 [![tg](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=Telegram)](https://t.me/daniilgral)
-[![Upwork](https://img.shields.io/badge/-Upwork-000000?style=for-the-badge&logo=Upwork)](https://www.upwork.com/freelancers/~01a65369f9e4bf8222)
+
 
 
 
