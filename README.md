@@ -9,7 +9,7 @@
 ## Skills
 ![React](https://img.shields.io/badge/-REACT-000000?style=for-the-badge&logo=react)
 ![javascript](https://img.shields.io/badge/-Javascript-000000?style=for-the-badge&logo=javascript)
-![typescript](https://img.shields.io/badge/-Typescript-000000?style=for-the-badge&logo=javascript)
+![typescript](https://img.shields.io/badge/-Typescript-000000?style=for-the-badge&logo=typescript)
 ![HTML](https://img.shields.io/badge/-HTML-000000?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=Css3)
 ![Firebase](https://img.shields.io/badge/-Firebase-000000?style=for-the-badge&logo=firebase)
