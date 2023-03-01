@@ -14,7 +14,6 @@
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=Css3)
 ![Firebase](https://img.shields.io/badge/-Firebase-000000?style=for-the-badge&logo=firebase)
 ![Svelte](https://img.shields.io/badge/-Svelte-000000?style=for-the-badge&logo=Svelte)
-![Jquery](https://img.shields.io/badge/-Jquery-000000?style=for-the-badge&logo=jquery)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=for-the-badge&logo=Bootstrap)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-000000?style=for-the-badge&logo=Tailwindcss)
 ![VS](https://img.shields.io/badge/-VSCode-000000?style=for-the-badge&logo=VisualStudioCode)
