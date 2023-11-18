@@ -1,4 +1,4 @@
-[![Header](assets/LogoFull.png)
+![Header](assets/LogoFull.png)
 
 ## I`m frontend-developer on HTML and React.js
 
