@@ -1,4 +1,4 @@
-[![Header](https://www.figma.com/file/AGFXFVg7EXHclNtYYCmo0s/Untitled?type=design&node-id=44-55&mode=design&t=NFzLBMG76Jeftnvw-4)
+[![Header](assets/logoformysitenew.png)
 
 ## I`m frontend-developer on HTML and React.js
 
