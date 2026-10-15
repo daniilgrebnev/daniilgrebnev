@@ -1,31 +1,42 @@
-![Header](assets/LogoFull.png)
+<div align="center">
 
-## I`m frontend-developer on HTML and React.js
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
+<img alt="Daniil Grebnev, frontend developer" src="assets/banner-light.svg">
+</picture>
 
----
+[**Portfolio ↗**](https://portfolio-iota-peach-jf712svhsu.vercel.app) &nbsp;·&nbsp; [**Résumé · PDF ↓**](https://portfolio-iota-peach-jf712svhsu.vercel.app/Daniil_Grebnev_Resume.pdf) &nbsp;·&nbsp; [**Telegram**](https://t.me/daniilgral) &nbsp;·&nbsp; [**Email**](mailto:danilgrebneff@gmail.com)
 
+</div>
 
-## Skills
-![React](https://img.shields.io/badge/-REACT-000000?style=for-the-badge&logo=react)
-![Nextjs](https://img.shields.io/badge/-Next-000000?style=for-the-badge&logo=next.js)
-![javascript](https://img.shields.io/badge/-Javascript-000000?style=for-the-badge&logo=javascript)
-![typescript](https://img.shields.io/badge/-Typescript-000000?style=for-the-badge&logo=typescript)
-![HTML](https://img.shields.io/badge/-HTML-000000?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=Css3)
-![Svelte](https://img.shields.io/badge/-Svelte-000000?style=for-the-badge&logo=Svelte)
-![Tailwind](https://img.shields.io/badge/-Tailwind-000000?style=for-the-badge&logo=Tailwindcss)
-![VS](https://img.shields.io/badge/-VSCode-000000?style=for-the-badge&logo=VisualStudioCode)
+<br>
 
+- **Frontend developer**, 4+ years: React, Next.js, TypeScript
+- Building CRM platforms, real-time maps, analytics dashboards and document editors
+- Based in **Novi Sad, Serbia**, working remote and async
+- **Available for an immediate start**
 
+## Key achievements
 
+<div align="center">
 
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/achievements-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="assets/achievements-light.svg">
+<img alt="Key achievements: 14.82 ms map rendering for 10,000+ data points; 30× faster CI/CD release pipeline; 2,600+ lazy-loaded UI components; 13 sales-team members freed from manual approvals" src="assets/achievements-light.svg">
+</picture>
 
-## Follow me
-[![tg](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=Telegram)](https://t.me/daniilgral)
+</div>
 
+## Stack
 
+<div align="center">
 
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="assets/stack-light.svg">
+<img alt="Stack: React, Next.js, TypeScript, JavaScript, Redux, Tailwind, NestJS, Node.js, Docker, Nginx, Git, Flutter, Leaflet, Vitest" src="assets/stack-light.svg">
+</picture>
 
-
-
-
+</div>
