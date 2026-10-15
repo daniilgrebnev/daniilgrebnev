@@ -75,7 +75,7 @@ def wrap(font, text, size, maxw):
 P = {
     "light": dict(bg="#ECEBE6", tile="#F7F6F2", ink="#0F0F0F", soft="#3B3A37", muted="#5E5C57", acc="#D4380D",
                   on_acc="#FFFFFF", inv="#0F0F0F", inv_ink="#ECEBE6", inv_muted="#A8A69F", hair="#0F0F0F", chip="#0F0F0F"),
-    "dark": dict(bg="#151515", tile="#1E1E1E", ink="#ECEBE6", soft="#CFCCC4", muted="#A8A69F", acc="#F2531F",
+    "dark": dict(bg="#FFFFFF0A", tile="#FFFFFF0D", ink="#ECEBE6", soft="#CFCCC4", muted="#A8A69F", acc="#F2531F",
                  on_acc="#151515", inv="#ECEBE6", inv_ink="#0F0F0F", inv_muted="#5E5C57", hair="#ECEBE6", chip="#ECEBE6"),
 }
 
